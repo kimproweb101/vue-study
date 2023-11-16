@@ -1,5 +1,5 @@
 <template>
   <div class="about">
-    <h1>about 바꿈!!</h1>
+    <h1>about 다시 바꿈2!!</h1>
   </div>
 </template>
